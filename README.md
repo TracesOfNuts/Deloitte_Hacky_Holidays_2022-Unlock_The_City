@@ -45,4 +45,4 @@ Do you need help with a challenge? Is something broken? Did you break something 
 Note: Challenge questions are followed-up on during office hours (Amsterdam time).
 
 ## Updates
-<a class="twitter-timeline" href="https://twitter.com/hackyholidays?ref_src=twsrc%5Etfw">Tweets by hackyholidays</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/hackyholidays?ref_src=twsrc%5Etfw">Tweets by hackyholidays</a>
